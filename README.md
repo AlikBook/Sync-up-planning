@@ -1,4 +1,4 @@
-# Planning Manager
+# Sync UP Planning Manager
 
 Flutter application for event planning and participant management with attendance tracking.
 
